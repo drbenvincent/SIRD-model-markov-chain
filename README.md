@@ -1,0 +1,2 @@
+- `SIRD model.ipynb` first initial exploration, using Python
+- `SIRD model JULIA.ipynb` switches this to run in Julia and elaborates things a little. But is still a basic SIRD model.
